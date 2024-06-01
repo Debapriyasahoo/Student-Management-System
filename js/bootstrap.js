@@ -2268,6 +2268,7 @@ if (typeof jQuery === 'undefined') {
   }
 
 
+
   // AFFIX PLUGIN DEFINITION
   // =======================
 
@@ -2315,3 +2316,4 @@ if (typeof jQuery === 'undefined') {
   })
 
 }(jQuery);
+
